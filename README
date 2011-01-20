@@ -12,8 +12,6 @@ Install this app and launch in the usual rails way:
 	
 Look at home_controller.rb to how things things work.
 
-You can log in as test_midwife with password "password" at http://rails3.manastats.org
-
 == API
 
 All values are returned as json
